@@ -63,6 +63,8 @@ $\small\left.\frac{x^3}{3}\right|_0^1$
 
 $\Huge\left.\frac{x^3}{3}\right|_0^1$
 
+$ \begin{matrix}a & b \\c & d \\\end{matrix}$
+
 
 
 
