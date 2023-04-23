@@ -26,19 +26,38 @@ $\color{red}x$
 mathfrak
 $\mathfrak{M}(z)= \mathfrak{Im}\mathfrak{(a+ib)}$
 
-$\mathscr{L}(z)= \mathscr{Im}\mathscr{(a+ib)}$
+
+mathscr
+$\mathscr{M}(z)= \mathscr{Im}\mathscr{(a+ib)}$
 
 mathbb
-$\mathbb{W}(z)= \mathbb{Im}\mathbb{(a+ib)}$
+$\mathbb{M}(z)= \mathbb{Im}\mathbb{(a+ib)}$
 
 mathcal
-$\mathcal{O}(z)= \mathcal{Im}\mathcal{(a+ib)}$
+$\mathcal{M}(z)= \mathcal{Im}\mathcal{(a+ib)}$
 
 mathsf
-$\mathsf{O}(z)= \mathsf{Im}\mathsf{(a+ib)}$
+$\mathsf{M}(z)= \mathsf{Im}\mathsf{(a+ib)}$
 
 mathbf
-$\mathbf{O}(z)= \mathbf{Im}\mathbf{(a+ib)}$
+$\mathbf{M}(z)= \mathbf{Im}\mathbf{(a+ib)}$
+
+mathnormal
+$\mathnormal{M}(z)= \mathnormal{Im}\mathnormal{(a+ib)}$
+
+mathfrak
+$\mathfrak{M}(z)= \mathfrak{Im}\mathfrak{(a+ib)}$
+
+mathrm
+$\mathrm{M}(z)= \mathrm{Im}\mathrm{(a+ib)}$
+
+mathtt
+$\mathtt{M}(z)= \mathtt{Im}\mathtt{(a+ib)}$
+
+mathit
+$\mathit{M}(z)= \mathit{Im}\mathit{(a+ib)}$
+
+
 
 
 $x^\frac{1}{2}$
@@ -68,6 +87,32 @@ a & b \\
 c & d 
 \end{matrix}$
 
+$ f(n) = 
+\begin{cases}    
+n/2       & \quad \text{if } n \text{ is even}\\ 
+-(n+1)/2  & \quad \text{if } n \text{ is odd}  
+\end{cases}$
+
+$ f(n) = 
+\left(\begin{array} {c}   
+n/2 \\ 
+-(n+1)/2   
+\end{array}\right)$
+
+$\forall x \in X, \quad \exists y \leq \epsilon$
 
 
+$\bigl(\begin{smallmatrix}
+a&b \\ c&d
+\end{smallmatrix} \bigr)$
 
+
+$\lim\limits_{x \to \infty} \exp(-x) = 0$
+
+$\begin{dcases}
+\int x\, \mathrm{d} x\\
+b^2
+\end{dcases}$
+
+
+$\int_a^b x^2 \mathrm{d} x$
