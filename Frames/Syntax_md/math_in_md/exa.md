@@ -26,7 +26,6 @@ $\color{red}x$
 mathfrak
 $\mathfrak{M}(z)= \mathfrak{Im}\mathfrak{(a+ib)}$
 
-
 mathscr
 $\mathscr{M}(z)= \mathscr{Im}\mathscr{(a+ib)}$
 
@@ -44,9 +43,6 @@ $\mathbf{M}(z)= \mathbf{Im}\mathbf{(a+ib)}$
 
 mathnormal
 $\mathnormal{M}(z)= \mathnormal{Im}\mathnormal{(a+ib)}$
-
-mathfrak
-$\mathfrak{M}(z)= \mathfrak{Im}\mathfrak{(a+ib)}$
 
 mathrm
 $\mathrm{M}(z)= \mathrm{Im}\mathrm{(a+ib)}$
