@@ -98,7 +98,7 @@ n/2 \\
 $\forall x \in X, \quad \exists y \leq \epsilon$
 
 
-$\bigl(\begin{smallmatrix}
+$\bigl(\begin{smallmatrix} 
 a&b \\ c&d
 \end{smallmatrix} \bigr)$
 
