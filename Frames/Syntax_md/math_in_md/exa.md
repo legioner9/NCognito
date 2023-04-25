@@ -112,3 +112,5 @@ b^2
 
 
 $\int_a^b x^2 \mathrm{d} x$
+
+$55^{\circ}$
