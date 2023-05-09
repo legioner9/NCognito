@@ -114,3 +114,11 @@ b^2
 $\int_a^b x^2 \mathrm{d} x$
 
 $55^{\circ}$
+
+$x_0=\frac-\ в\ случае\ электрических\ колебаний$
+
+$<\omega >_0=\frac<1><\sqrt>$; $U=U_m<\cos \left(\omega t\right)\ >$
+
+$Q=\frac<<\omega >_0><2\delta >$
+
+$F=<\cos \left(\omega t\right)(Н).\ \ \ >$
