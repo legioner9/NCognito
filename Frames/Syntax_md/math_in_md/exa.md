@@ -122,3 +122,5 @@ $<\omega >_0=\frac<1><\sqrt>$; $U=U_m<\cos \left(\omega t\right)\ >$
 $Q=\frac<<\omega >_0><2\delta >$
 
 $F=<\cos \left(\omega t\right)(Н).\ \ \ >$
+
+$\rightarrow{^{abstract}}\rightarrow$
