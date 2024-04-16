@@ -24,7 +24,7 @@ $\color{green}x$
 $\color{red}x$
 
 mathfrak
-$\mathfrak{M}(z)= \mathfrak{Im}\mathfrak{(a+ib)}$
+# $\mathfrak{M}(z)= \mathfrak{Im}\mathfrak{(a+ib)}$
 
 mathscr
 $\mathscr{M}(z)= \mathscr{Im}\mathscr{(a+ib)}$
